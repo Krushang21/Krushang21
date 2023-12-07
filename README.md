@@ -1,5 +1,5 @@
 # 💫 About Me:
-A highly curious and versatile individual, constantly seeking knowledge and pursuing new opportunities for growth, with an approach to problem-solving characterized by proficiency in Python, Django, and MYSQL.
+A highly curious and versatile individual, constantly seeking knowledge and pursuing new opportunities for growth, with an approach to problem-solving characterized by proficiency in Python, Django, FastAPI, ReactJS and MYSQL.
 
 
 ## 🌐 Socials:
